@@ -12,7 +12,7 @@
 6. Init Search Form
 7. Init Hamburger
 8. Init Vertical Slider
-9. Init Services Slider
+9. Init services Slider
 10. Init Parallax
 11. Init Scrolling
 
@@ -51,7 +51,7 @@ $(document).ready(function()
 	initSearchForm();
 	initHamburger();
 	initVSlider();
-	initServicesSlider();
+	initservicesSlider();
 	initParallax();
 	initScrolling();
 
@@ -279,11 +279,11 @@ $(document).ready(function()
 
 	/* 
 
-	9. Init Services Slider
+	9. Init services Slider
 
 	*/
 
-	function initServicesSlider()
+	function initservicesSlider()
 	{
 		if($('.services_slider').length)
 		{

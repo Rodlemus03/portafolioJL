@@ -23,8 +23,8 @@ COLOR PALETTE
 4. Menu
 5. Icon Boxes
 6. Vertical Slider Section
-7. Services
-	7.1 Services Slider
+7. services
+	7.1 services Slider
 8. Features
 9. Call to action
 10. Text Line
@@ -139,15 +139,7 @@ h1, h2, h3, h4, h5, h6
 	-webkit-text-shadow: rgba(0,0,0,.01) 0 0 1px;
 	text-shadow: rgba(0,0,0,.01) 0 0 1px;
 }
-h1::selection, 
-h2::selection, 
-h3::selection, 
-h4::selection, 
-h5::selection, 
-h6::selection
-{
-	
-}
+
 ::-webkit-input-placeholder
 {
 	font-size: 14px !important;
@@ -988,7 +980,7 @@ section
 }
 
 /*********************************
-7. Services
+7. services
 *********************************/
 
 .services
@@ -1011,7 +1003,7 @@ section
 }
 
 /*********************************
-7.1 Services Slider
+7.1 services Slider
 *********************************/
 
 .h_slider_container
